@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TopMenuTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.973">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="2.326" classname="com.tutorialsninja.testsuites.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" time="2.938" classname="com.tutorialsninja.testsuites.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToComponentsPageSuccessfully" time="3.709" classname="com.tutorialsninja.testsuites.TopMenuTest" />
+      
+</testsuite>
